@@ -16,7 +16,7 @@ namespace StudentFormApp
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseMySql(
                     builder.Configuration.GetConnectionString("DefaultConnection"),
-                    new MySqlServerVersion(new Version(8, 0, 38)) // use your MySQL version
+                    new MySqlServerVersion(new Version(8, 0, 38))
                 )
             );
 
