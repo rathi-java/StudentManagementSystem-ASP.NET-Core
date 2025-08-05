@@ -140,5 +140,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## 🙋‍♂️ Feedback or Suggestions?
 
 Open an issue or connect via GitHub. Always open to collaboration and improvements! 🚀
-
-```
