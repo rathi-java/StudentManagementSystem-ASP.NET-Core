@@ -48,7 +48,6 @@ Ensure the following are installed on your system:
    ```bash
    git clone https://github.com/rathi-java/StudentManagementSystem-ASP.NET-Core.git
    cd StudentManagementSystem-ASP.NET-Core
-````
 
 2. **Configure MySQL Connection**
 
